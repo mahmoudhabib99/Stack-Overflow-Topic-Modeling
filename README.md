@@ -7,5 +7,4 @@ Task 2: Using existing libraries, such as gensim https://radimrehurek.com/gensim
 Task 3: Perform topic analysis on the prepossessed textual data. Briefly specify how you pick the number of topics.
 
 
-![Visualizing the Topics-Keywords](![Screenshot (133)](https://user-images.githubusercontent.com/65713718/208085098-2dd86349-9aa7-43e1-8ecb-2f991d9f908d.png)
-)
+![Topics](https://user-images.githubusercontent.com/65713718/208617034-8508362d-5394-479f-9651-bf7d9190921d.png)
